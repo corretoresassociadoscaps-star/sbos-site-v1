@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salesberbert.com.br/sitemap.xml

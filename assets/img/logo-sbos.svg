@@ -1,0 +1,36 @@
+<svg width="280" height="280" viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sales & Berbert Corretores Associados</title>
+  <desc id="desc">Marca circular com três beija-flores coloridos e texto institucional.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#b58a2a"/><stop offset=".5" stop-color="#f1d58a"/><stop offset="1" stop-color="#9f741d"/></linearGradient>
+    <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#d92868"/><stop offset="1" stop-color="#f6b0c5"/></linearGradient>
+    <linearGradient id="teal" x1="0" x2="1"><stop stop-color="#039a91"/><stop offset="1" stop-color="#2bb8e9"/></linearGradient>
+    <linearGradient id="green" x1="0" x2="1"><stop stop-color="#58b86f"/><stop offset="1" stop-color="#0aa0aa"/></linearGradient>
+  </defs>
+  <circle cx="140" cy="140" r="132" fill="#fffdf7" stroke="url(#gold)" stroke-width="3"/>
+  <path id="topArc" d="M 48 93 A 112 112 0 0 1 232 93" fill="none"/>
+  <path id="bottomArc" d="M 232 196 A 112 112 0 0 1 48 196" fill="none"/>
+  <text font-family="Montserrat, Arial, sans-serif" font-weight="800" font-size="22" fill="#173b75" letter-spacing="2"><textPath href="#topArc" startOffset="50%" text-anchor="middle">SALES &amp; BERBERT</textPath></text>
+  <text font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="15" fill="#173b75" letter-spacing="1.2"><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">CORRETORES ASSOCIADOS · PORTO SEGURO - BA</textPath></text>
+  <g transform="translate(56 78) rotate(-12)">
+    <path d="M4 31 C35 18 55 23 72 47 C45 42 27 38 4 31Z" fill="#553ea2"/>
+    <path d="M70 47 C88 12 112 7 136 0 C122 24 105 47 75 62Z" fill="url(#pink)" opacity=".95"/>
+    <path d="M72 48 C103 58 115 75 128 95 C98 84 77 70 61 48Z" fill="#8d65c7" opacity=".85"/>
+    <path d="M0 31 L-30 24" stroke="#db245d" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="58" cy="34" r="5" fill="#fff"/><circle cx="60" cy="34" r="3" fill="#101010"/>
+  </g>
+  <g transform="translate(138 105) rotate(8)">
+    <path d="M0 32 C32 19 59 24 77 50 C46 45 27 39 0 32Z" fill="#20b9c5"/>
+    <path d="M76 50 C91 10 119 6 143 -4 C130 24 113 52 81 65Z" fill="url(#teal)"/>
+    <path d="M77 51 C106 63 119 83 130 105 C101 91 81 73 64 51Z" fill="#6e4db5" opacity=".86"/>
+    <path d="M0 32 L-31 31" stroke="#332184" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="58" cy="35" r="5" fill="#fff"/><circle cx="60" cy="35" r="3" fill="#111"/>
+  </g>
+  <g transform="translate(83 157) rotate(-4)">
+    <path d="M0 33 C34 17 59 25 80 56 C46 49 28 40 0 33Z" fill="url(#green)"/>
+    <path d="M80 56 C97 30 124 28 151 28 C126 41 107 59 81 76Z" fill="#f26a3d" opacity=".96"/>
+    <path d="M80 57 C69 88 74 112 70 136 C54 100 57 76 80 57Z" fill="#0d9bb5" opacity=".86"/>
+    <path d="M151 28 L183 22" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="99" cy="42" r="5" fill="#fff"/><circle cx="101" cy="42" r="3" fill="#111"/>
+  </g>
+</svg>
