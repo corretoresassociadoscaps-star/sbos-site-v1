@@ -1,0 +1,6 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Casa premium em Trancoso</title><desc id="desc">Ilustração de imóvel de luxo com piscina e vegetação tropical.</desc>
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9ec"/><stop offset="1" stop-color="#e8d3ad"/></linearGradient><linearGradient id="b" x1="0" x2="1"><stop stop-color="#0c777b"/><stop offset="1" stop-color="#57c5bf"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#102b4c" flood-opacity=".25"/></filter></defs>
+<rect width="900" height="620" fill="url(#a)"/><circle cx="755" cy="110" r="58" fill="#e9c777" opacity=".8"/><path d="M0 406 C170 350 310 390 470 420 C610 447 740 384 900 412 L900 620 L0 620Z" fill="url(#b)" opacity=".75"/>
+<g filter="url(#s)"><path d="M165 280 L450 155 L742 281 L704 306 L452 209 L199 310Z" fill="#ead8bd"/><path d="M203 307 H702 V456 H203Z" fill="#fffaf0"/><path d="M245 335 H400 V445 H245Z" fill="#173b75"/><path d="M435 335 H632 V445 H435Z" fill="#173b75"/><path d="M228 322 H650" stroke="#c99a3c" stroke-width="8"/><path d="M148 456 H755 L792 520 H108Z" fill="#d3b181"/><path d="M309 455 C390 417 520 417 611 455 C516 478 402 478 309 455Z" fill="#0a7379"/></g>
+</svg>
