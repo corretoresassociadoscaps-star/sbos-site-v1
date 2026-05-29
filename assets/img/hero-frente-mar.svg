@@ -1,0 +1,28 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Residência frente mar de alto padrão</title>
+  <desc id="desc">Ilustração premium de uma casa contemporânea à beira-mar no Sul da Bahia.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f9efe1"/><stop offset=".55" stop-color="#fffaf1"/><stop offset="1" stop-color="#dfeee9"/></linearGradient>
+    <linearGradient id="sea" x1="0" x2="1"><stop stop-color="#0a7379"/><stop offset="1" stop-color="#63c8c2"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#a97818"/><stop offset=".48" stop-color="#f1d58a"/><stop offset="1" stop-color="#b58a2a"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#15345e" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="820" fill="url(#sky)"/>
+  <circle cx="955" cy="155" r="78" fill="#f4d68a" opacity=".75"/>
+  <path d="M0 500 C190 440 340 462 520 492 C740 530 950 460 1200 498 L1200 820 L0 820Z" fill="url(#sea)" opacity=".9"/>
+  <path d="M0 600 C220 560 362 610 574 590 C804 568 945 552 1200 592 L1200 820 L0 820Z" fill="#fff9ee" opacity=".92"/>
+  <path d="M74 350 C100 276 131 240 174 209 C157 286 142 329 74 350Z" fill="#2f9a70" opacity=".75"/>
+  <path d="M102 365 C161 302 210 278 282 270 C231 331 186 363 102 365Z" fill="#0b928d" opacity=".7"/>
+  <g filter="url(#shadow)">
+    <path d="M285 344 L648 185 L1030 345 L965 380 L650 257 L340 382Z" fill="#efe1c8"/>
+    <path d="M340 382 L965 380 L950 604 L354 604Z" fill="#fbf6eb"/>
+    <path d="M404 416 H612 V584 H404Z" fill="#193b6b" opacity=".92"/>
+    <path d="M656 416 H890 V584 H656Z" fill="#173b75" opacity=".95"/>
+    <path d="M390 403 H918" stroke="url(#gold)" stroke-width="9"/>
+    <path d="M292 604 H1000 L1048 676 H240Z" fill="#ddc8a8"/>
+    <path d="M482 600 C570 558 710 558 812 600 C706 620 594 620 482 600Z" fill="#0c777b" opacity=".75"/>
+    <rect x="510" y="430" width="98" height="154" rx="3" fill="#f3eadb"/>
+    <rect x="700" y="430" width="138" height="154" rx="3" fill="#f3eadb"/>
+  </g>
+  <path d="M0 720 C172 680 265 726 420 704 C585 681 671 727 823 704 C986 680 1076 702 1200 674 L1200 820 L0 820Z" fill="#d2b27f" opacity=".75"/>
+</svg>
